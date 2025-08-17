@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Flutter / Dart
+db_frontend/.dart_tool/
+db_frontend/.packages
+db_frontend/build/
+db_frontend/ios/
+db_frontend/web/
+db_frontend/macos/
+db_frontend/windows/
+db_frontend/linux/
+
+# Environment files
+*.env
+
+# Local backups
+local_backup/
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
